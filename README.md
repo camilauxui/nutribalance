@@ -2,6 +2,8 @@
 
 Proyecto desarrollado para Trabaja Online
 
+Landing Page · Desarrollado con HTML, CSS y Bootstrap
+
 ## Objetivo
 
 Diseñar una sección web promocional que incluya:
